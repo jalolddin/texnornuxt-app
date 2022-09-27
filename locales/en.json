@@ -1,0 +1,345 @@
+{
+  "site": "Teсhnodar",
+  "meta": {
+    "title": "Teсhnodar title",
+    "description": "Teсhnodar description",
+    "keywords": "Teсhnodar keywords"
+  },
+  "overlay": "Close",
+  "header": {
+    "call": "Order a call",
+    "lk": "Personal account",
+    "dropdownMenu": [
+      {
+        "title": "Production",
+        "inside": [
+          "Production",
+          "Design",
+          "Installation and service",
+          "Cost control",
+          "Bunker control",
+          "Inventory measurement",
+          "Refrigerator control",
+          "Crab control"
+        ]
+      },
+      {
+        "title": "Development",
+        "inside": [
+          "Fuel reserves"
+        ]
+      },
+      {
+        "title": "Industry Solutions",
+        "inside": [
+          "Production"
+        ]
+      },
+      {
+        "title": "Company",
+        "inside": [
+          "Design"
+        ]
+      },
+      { "title": "Cases" },
+      { "title": "Boxed solutions" },
+      { "title": "Savings calculator" }
+    ],
+    "bottomMenu": [
+      { "title": "Offers for the fleet" },
+      {
+        "title": "Industry solutions",
+        "inside": [
+          "Sensors",
+          "Gas separators",
+          "Flowmeters",
+          "Controllers"
+        ]
+      },
+      {
+        "title": "Products and technologies",
+        "inside": [
+          "Sensors"
+        ]
+      },
+      {
+        "title": "Tasks to be solved",
+        "inside": [
+          "Sensors"
+        ]
+      },
+      { "title": "Calculator and cases" },
+      { "title": "About us" },
+      { "title": "Contacts" },
+      { "title": "Blog" }
+    ],
+    "squares": [
+      {
+        "title": "Free consultation",
+        "bot": "To get the consultation"
+      },
+      {
+        "title": "Online demo",
+        "bot": "Watch demo"
+      }
+    ]
+  },
+  "footer": {
+    "text": "Stay up to date with the latest news <br />and press releases of the «Technodar» group of companies",
+    "navLeft": [
+      "Fleet solutions",
+      "Products and technologies",
+      "Tasks to be solved",
+      "Industry solutions",
+      "Savings calculator"
+    ],
+    "navRight": [
+      "Cases",
+      "About us",
+      "Contacts",
+      "Blog"
+    ],
+    "address": [
+      "Petrozavodsk",
+      "6th Guards lane, 7a"
+    ],
+    "rights": "© 2008–2022. All rights reserved. <br>LLC «Technodar», Fuel control systems",
+    "privacy": "Privacy policy"
+  },
+  "form": {
+    "title": "Sign up for a demo of the system online",
+    "text": "The demonstration takes place on a real monitoring object",
+    "btn": "Send",
+    "fields": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "E-mail",
+      "agreeTerms": "Privacy policy"
+    }
+  },
+  "general": {
+    "achievements": [
+      {
+        "title": "Geography",
+        "text": "10 countries"
+      },
+      {
+        "title": "Customers",
+        "text": "150+"
+      },
+      {
+        "title": "Projects",
+        "text": "600+"
+      },
+      {
+        "title": "Fleet units",
+        "text": "1500+"
+      }
+    ],
+    "demonstration": {
+      "text": "Let's show how our system works on the example of a real object",
+      "btn": "Sign up for a demo"
+    }
+  },
+  "index": {
+    "directions": {
+      "title": "Areas of work",
+      "items": [
+        {
+          "system": "Control system",
+          "title": "Fleet",
+          "description": "Monitor crew, engine performance, bunkering and other critical metrics to reduce costs for fleet owners",
+          "btn": "More about the system"
+        },
+        {
+          "system": "Control system",
+          "title": "Drilling rigs"
+        },
+        {
+          "system": "Control system",
+          "title": "Railway transport"
+        },
+        {
+          "system": "Control system",
+          "title": "Motor transport"
+        }
+      ]
+    },
+    "more": {
+      "title": "Learn more about us",
+      "items": [
+        "Own production",
+        "Our technologies and software",
+        "Competences and experience",
+        "What tasks do we solve"
+      ]
+    },
+    "tasks": {
+      "title": "We solve any task in a complex",
+      "items": [
+        "We work on a turnkey basis - from project development to system launch",
+        "You do not have to look for additional equipment or do the installation yourself",
+        "We will control the process and install only the equipment that works without deviations"
+      ],
+      "btn": "More about installation and service",
+      "guarantee": {
+        "text": "We guarantee our systems",
+        "or": "or",
+        "dash1": "36 months",
+        "dash2": "30 000 operating hours"
+      }
+    },
+    "clients": {
+      "title": "Company clients",
+      "btn": "Results of cooperation"
+    },
+    "partners": "Our partners",
+    "mentions": "Media mentions"
+  },
+  "production": {
+    "tabs": [
+      "Sensors",
+      "Gas separators",
+      "Flowmeters",
+      "Controllers"
+    ],
+    "other-links": {
+      "title": "More information about production",
+      "items": [
+        "Production",
+        "Project department",
+        "Installation and service",
+        "Flow control",
+        "Bunker control",
+        "Inventory measurement",
+        "Refrigerator control",
+        "Crab control"
+      ]
+    },
+    "documentation": {
+      "separators": {
+        "title": "Specifications",
+        "docs": "Technical documentation",
+        "download": "Download, pdf",
+        "items": [
+          {
+            "title": "Measured environment",
+            "text": "Liquid fuels with viscosity up to 1000 mPa*s"
+          },
+          {
+            "title": "Operating temperature",
+            "text": "From -40 to + 120 C"
+          },
+          {
+            "title": "Ambient temperature",
+            "text": "From -50 to + 70 C"
+          },
+          {
+            "title": "Nominal pressure",
+            "text": "16 bar"
+          },
+          {
+            "title": "Pressure drop",
+            "text": "Max. 0.034 bar"
+          },
+          {
+            "title": "Fuel consumption",
+            "text": "From 6 to 1000 l/h"
+          },
+          {
+            "title": "Protection class",
+            "text": "Weatherproof IP65"
+          },
+          {
+            "title": "Weight",
+            "text": "14 kg"
+          }
+        ]
+      },
+      "controllers": {
+        "title": "Display of all parameters",
+        "docs": "Technical documentation",
+        "download": "Download, pdf",
+        "items": [
+          {
+            "feature": "Consumption calculated, l"
+          },
+          {
+            "feature": "Flow, l/h"
+          },
+          {
+            "feature": "Cumulative feed rate, l"
+          },
+          {
+            "feature": "Supply temperature, 0C"
+          },
+          {
+            "feature": "Cumulative consumption of the return line, l"
+          },
+          {
+            "feature": "Return temperature, 0С"
+          }
+        ]
+      }
+    },
+    "sensors": {
+      "slider-btn": "About the sensor",
+      "tiles": [
+        "Capacitive fuel level sensors (FLS)",
+        "Ultrasonic (US) fuel level sensors",
+        "Radar sensors"
+      ]
+    },
+    "separators": {
+      "slider-btn": "About the deaerator",
+      "features": {
+        "title": "Deaerator Sekee",
+        "items": [
+          {
+            "title": "Deaerator",
+            "text": "A technical device that implements the process of separation (separation) of gases from fuel, i.e. its purification from the present dissolved gas impurities"
+          },
+          {
+            "title": "Principle of operation",
+            "text": "Principle of operation: in a float-type deaerator, the process of separation (separation) of liquid fuel from gases takes place, and the separated air is removed from the deaerator chamber through an air valve"
+          }
+        ]
+      }
+    },
+    "flowmeters": {
+      "slider-btn": "About the flowmeter",
+      "info": "Sekee FM, DFM meters are used to measure the volume and volume flow of diesel fuel, gasoline, liquefied gas, kerosene, oil, oil with water, fuel oil and other liquids with dynamic viscosity from 1 to 1000 mPa*s",
+      "tabs": {
+        "link": "Sekee flowmeters",
+        "btn": [
+          "Volumetric",
+          "Mass"
+        ],
+        "text": [
+          "A device for measuring the volume of liquid that flows through a cross section of a stream per unit of time",
+          "Mass"
+        ],
+        "items0": [
+          "Automatic mode for correcting fuel consumption with a difference in flow on the supply and return lines",
+          "Independent of the viscosity of the medium being measured and the power supply",
+          "Insensitive to flow profile",
+          "Ambient temperature: from -55 °С to +85 °С"
+        ],
+        "items1": [
+          "Automatic mode for correcting fuel consumption with a difference in flow on the supply and return lines",
+          "Independent of the viscosity of the medium being measured and the power supply",
+          "Insensitive to flow profile"
+        ]
+      }
+    },
+    "controllers": {
+      "slider-btn": "About the controller",
+      "tiles": [
+        "Protection class IP67",
+        "Temperature regime -50С..+75С",
+        "OLED display",
+        "Output signal via RS-485"
+      ]
+    }
+  }
+}

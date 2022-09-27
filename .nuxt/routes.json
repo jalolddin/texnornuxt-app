@@ -1,0 +1,233 @@
+[
+  {
+    "name": "calculator",
+    "path": "/calculator",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\calculator.vue",
+    "chunkName": "pages/calculator",
+    "url": "/calculator"
+  },
+  {
+    "name": "consultation",
+    "path": "/consultation",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\consultation.vue",
+    "chunkName": "pages/consultation",
+    "url": "/consultation"
+  },
+  {
+    "name": "demonstration",
+    "path": "/demonstration",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\demonstration.vue",
+    "chunkName": "pages/demonstration",
+    "url": "/demonstration"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/en"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ru"
+  },
+  {
+    "name": "calculator___en",
+    "path": "/en/calculator",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\calculator.vue",
+    "chunkName": "pages/calculator",
+    "url": "/en/calculator"
+  },
+  {
+    "name": "consultation___en",
+    "path": "/en/consultation",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\consultation.vue",
+    "chunkName": "pages/consultation",
+    "url": "/en/consultation"
+  },
+  {
+    "name": "demonstration___en",
+    "path": "/en/demonstration",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\demonstration.vue",
+    "chunkName": "pages/demonstration",
+    "url": "/en/demonstration"
+  },
+  {
+    "name": "industries-ship",
+    "path": "/industries/ship",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\industries\\\\ship.vue",
+    "chunkName": "pages/industries/ship",
+    "url": "/industries/ship"
+  },
+  {
+    "path": "/production/production",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production.vue",
+    "chunkName": "pages/production/production",
+    "children": [
+      {
+        "name": "production-production",
+        "path": "",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\index.js",
+        "chunkName": "pages/production/production/index",
+        "url": "/production/production"
+      },
+      {
+        "name": "production-production-controllers",
+        "path": "controllers",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\controllers.vue",
+        "chunkName": "pages/production/production/controllers",
+        "url": "/production/production/controllers"
+      },
+      {
+        "name": "production-production-flowmeters",
+        "path": "flowmeters",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\flowmeters.vue",
+        "chunkName": "pages/production/production/flowmeters",
+        "url": "/production/production/flowmeters"
+      },
+      {
+        "name": "production-production-gas-separators",
+        "path": "gas-separators",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\gas-separators.vue",
+        "chunkName": "pages/production/production/gas-separators",
+        "url": "/production/production/gas-separators"
+      },
+      {
+        "name": "production-production-sensors",
+        "path": "sensors",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\sensors.vue",
+        "chunkName": "pages/production/production/sensors",
+        "url": "/production/production/sensors"
+      }
+    ]
+  },
+  {
+    "name": "calculator___ru",
+    "path": "/ru/calculator",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\calculator.vue",
+    "chunkName": "pages/calculator",
+    "url": "/ru/calculator"
+  },
+  {
+    "name": "consultation___ru",
+    "path": "/ru/consultation",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\consultation.vue",
+    "chunkName": "pages/consultation",
+    "url": "/ru/consultation"
+  },
+  {
+    "name": "demonstration___ru",
+    "path": "/ru/demonstration",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\demonstration.vue",
+    "chunkName": "pages/demonstration",
+    "url": "/ru/demonstration"
+  },
+  {
+    "name": "industries-ship___en",
+    "path": "/en/industries/ship",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\industries\\\\ship.vue",
+    "chunkName": "pages/industries/ship",
+    "url": "/en/industries/ship"
+  },
+  {
+    "path": "/en/production/production",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production.vue",
+    "chunkName": "pages/production/production",
+    "children": [
+      {
+        "name": "production-production___en",
+        "path": "",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\index.js",
+        "chunkName": "pages/production/production/index",
+        "url": "/en/production/production"
+      },
+      {
+        "name": "production-production-controllers___en",
+        "path": "controllers",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\controllers.vue",
+        "chunkName": "pages/production/production/controllers",
+        "url": "/en/production/production/controllers"
+      },
+      {
+        "name": "production-production-flowmeters___en",
+        "path": "flowmeters",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\flowmeters.vue",
+        "chunkName": "pages/production/production/flowmeters",
+        "url": "/en/production/production/flowmeters"
+      },
+      {
+        "name": "production-production-gas-separators___en",
+        "path": "gas-separators",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\gas-separators.vue",
+        "chunkName": "pages/production/production/gas-separators",
+        "url": "/en/production/production/gas-separators"
+      },
+      {
+        "name": "production-production-sensors___en",
+        "path": "sensors",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\sensors.vue",
+        "chunkName": "pages/production/production/sensors",
+        "url": "/en/production/production/sensors"
+      }
+    ]
+  },
+  {
+    "name": "industries-ship___ru",
+    "path": "/ru/industries/ship",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\industries\\\\ship.vue",
+    "chunkName": "pages/industries/ship",
+    "url": "/ru/industries/ship"
+  },
+  {
+    "path": "/ru/production/production",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production.vue",
+    "chunkName": "pages/production/production",
+    "children": [
+      {
+        "name": "production-production___ru",
+        "path": "",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\index.js",
+        "chunkName": "pages/production/production/index",
+        "url": "/ru/production/production"
+      },
+      {
+        "name": "production-production-controllers___ru",
+        "path": "controllers",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\controllers.vue",
+        "chunkName": "pages/production/production/controllers",
+        "url": "/ru/production/production/controllers"
+      },
+      {
+        "name": "production-production-flowmeters___ru",
+        "path": "flowmeters",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\flowmeters.vue",
+        "chunkName": "pages/production/production/flowmeters",
+        "url": "/ru/production/production/flowmeters"
+      },
+      {
+        "name": "production-production-gas-separators___ru",
+        "path": "gas-separators",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\gas-separators.vue",
+        "chunkName": "pages/production/production/gas-separators",
+        "url": "/ru/production/production/gas-separators"
+      },
+      {
+        "name": "production-production-sensors___ru",
+        "path": "sensors",
+        "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\production\\\\production\\\\sensors.vue",
+        "chunkName": "pages/production/production/sensors",
+        "url": "/ru/production/production/sensors"
+      }
+    ]
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Jaloliddin\\\\OneDrive\\\\Desktop\\\\technodarnuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  }
+]

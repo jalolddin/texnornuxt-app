@@ -1,0 +1,304 @@
+@import './variables/fonts.scss';
+@import './variables/transitions.scss';
+
+:root {
+  --text-1000: #000000;
+  --text-900: #131313;
+  --text-800: #231F20;
+  --text-700: #4A4A4A;
+  --text-600: #898989;
+  --text-400: #C6C6C6;
+  --text-300: #E1E1E1;
+  --text-200: #F2F2F2;
+  --text-100: #FAFAFA;
+  --text-000: #FFFFFF;
+  --primary-shadow: #0E268B;
+  --primary-blue: #1333BB;
+  --primary-tint: #183FE7;
+  --primary-100: #D1D9FA;
+  --secondary-shadow: #7B1414;
+  --secondary-red: #A61A1A;
+  --secondary-tint: #D32121;
+  --secondary-error: #E24646;
+  --secondary-500: #F09E9E;
+  --container-padding: 6rem;
+  --section-margin: 8rem;
+  @include w1199 {
+    --container-padding: 3.2rem;
+  }
+  @include w767 {
+    --container-padding: 1.6rem;
+    --section-margin: 4rem;
+  }
+}
+
+html {
+  font-size: 10px;
+  opacity: 0;
+  transition: opacity 0.2s;
+  @include more-1460 {
+    font-size: 0.68vw;
+  }
+  //@include more-1600 {
+  //  font-size: 10.88px;
+  //}
+  &::-webkit-scrollbar {
+    width: 0.6rem;
+  }
+  &::-webkit-scrollbar-button {
+    display: none;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--primary-blue);
+    border-radius: 0.6rem;
+  }
+  &::-webkit-scrollbar-track {
+    background: var(--text-000);
+  }
+  &.loaded {
+    opacity: 1;
+  }
+  &.fixed {
+    height: calc(var(--height) - 1px);
+    overflow: hidden;
+    body {
+      height: calc(var(--height) - 1px);
+      overflow: hidden;
+    }
+  }
+  &.compensate-for-scrollbar {
+    margin-right: 1.5rem;
+  }
+}
+
+body {
+  font-family: 'Suisse Intl', sans-serif;
+  font-weight: 450;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  letter-spacing: -0.03em;
+  color: var(--text-900);
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100vh;
+  padding: 0 var(--container-padding);
+}
+
+.content {
+  flex: 1;
+}
+
+.container {
+  width: 100%;
+  max-width: 138.4rem;
+  margin: 0 auto;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none;
+}
+
+ul,
+ol {
+  margin: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 2.4rem;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+  transition: color 0.2s;
+  &:not([class]),
+  &[class='focus-visible'],
+  &[class=''] {
+    margin-left: 0.4rem;
+    color: var(--primary-blue);
+    @include hover {
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+    @include active {
+      &:active {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+b {
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0);
+}
+
+.section-margin {
+  margin-bottom: var(--section-margin);
+}
+
+.title {
+  font-weight: 450;
+  font-size: 4rem;
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+  @include w1199 {
+    font-size: 3.2rem;
+    line-height: 1.25;
+  }
+  @include w767 {
+    font-size: 2.4rem;
+    line-height: 1.33;
+  }
+}
+
+.btn {
+  display: inline-block;
+  width: fit-content;
+  border-radius: 3.2rem;
+  text-align: center;
+  font-weight: 450;
+  font-size: 1.6rem;
+  line-height: 1.12;
+  cursor: pointer;
+  transition: color 0.2s, background 0.2s, border-color 0.2s;
+  @include w767 {
+    font-size: 1.4rem;
+  }
+}
+
+.btn-white-outlined {
+  background: none;
+  border: 0.1rem solid var(--text-000);
+  color: var(--text-000);
+  @include hover {
+    &:hover,
+    &:focus {
+      background: var(--text-000);
+      color: var(--primary-blue);
+    }
+    &:active {
+      background: var(--primary-shadow);
+      border-color: var(--primary-shadow);
+      color: var(--text-000);
+    }
+  }
+  @include active {
+    &:active {
+      background: var(--primary-shadow);
+      border-color: var(--primary-shadow);
+      color: var(--text-000);
+    }
+  }
+}
+
+.btn-blue-outlined {
+  background: none;
+  border: 0.1rem solid var(--primary-blue);
+  color: var(--primary-blue);
+  @include hover {
+    &:hover,
+    &:focus {
+      background: var(--primary-blue);
+      color: var(--text-000);
+    }
+    &:active {
+      background: var(--primary-shadow);
+      border-color: var(--primary-shadow);
+      color: var(--text-000);
+    }
+  }
+  @include active {
+    &:active {
+      background: var(--primary-shadow);
+      border-color: var(--primary-shadow);
+      color: var(--text-000);
+    }
+  }
+}
+
+.btn-white-filled {
+  background: var(--text-000);
+  border: none;
+  color: var(--primary-blue);
+  @include hover {
+    &:hover,
+    &:focus {
+      background: var(--text-200);
+    }
+    &:active {
+      background: var(--text-200);
+      color: var(--primary-shadow);
+    }
+  }
+  @include active {
+    &:active {
+      background: var(--text-200);
+      color: var(--primary-shadow);
+    }
+  }
+}
+
+.btn-blue-filled {
+  background: var(--primary-blue);
+  border: none;
+  color: var(--text-000);
+  @include hover {
+    &:hover,
+    &:focus {
+      background: var(--primary-tint);
+    }
+    &:active {
+      background: var(--primary-shadow);
+    }
+  }
+  @include active {
+    &:active {
+      background: var(--primary-shadow);
+    }
+  }
+}

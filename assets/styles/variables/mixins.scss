@@ -1,0 +1,136 @@
+@mixin more-fullhd {
+  @media screen and (min-width: 1921px) {
+    @content;
+  }
+}
+@mixin more-1600 {
+  @media screen and (min-width: 1600px) {
+    @content;
+  }
+}
+@mixin more-1460 {
+  @media screen and (min-width: 1460px) {
+    @content;
+  }
+}
+@mixin min767 {
+  @media only screen and (min-width: 359px) and (max-width: 767px) {
+    @content;
+  }
+}
+@mixin text767 {
+  @media only screen and (min-width: 490px) and (max-width: 767px) {
+    @content;
+}
+}
+@mixin less-fullhd {
+  @media screen and (max-width: 1900px) {
+    @content;
+  }
+}
+@mixin w1750 {
+  @media screen and (max-width: 1750px) {
+    @content;
+  }
+}
+@mixin w1550 {
+  @media screen and (max-width: 1550px) {
+    @content;
+  }
+}
+@mixin w1440 {
+  @media screen and (max-width: 1440px) {
+    @content;
+  }
+}
+@mixin w1400 {
+  @media screen and (max-width: 1400px) {
+    @content;
+  }
+}
+@mixin w1366 {
+  @media screen and (max-width: 1366px) {
+    @content;
+  }
+}
+@mixin w1300 {
+  @media screen and (max-width: 1300px) {
+    @content;
+  }
+}
+@mixin w1199 {
+  @media screen and (max-width: 1199px) {
+    @content;
+  }
+}
+@mixin w1023 {
+  @media screen and (max-width: 1023px) {
+    @content;
+  }
+}
+@mixin w920 {
+  @media screen and (max-width: 920px) {
+    @content;
+  }
+}
+@mixin w767 {
+  @media screen and (max-width: 767px) {
+    @content;
+  }
+}
+@mixin w699 {
+  @media screen and (max-width: 699px) {
+    @content;
+  }
+}
+@mixin w652 {
+  @media screen and (max-width: 652px) {
+    @content;
+  }
+}
+@mixin w615 {
+  @media screen and (max-width: 615px) {
+    @content;
+  }
+}
+@mixin w580 {
+  @media screen and (max-width: 580px) {
+    @content;
+  }
+}
+@mixin min490 {
+  @media only screen and (min-width: 300px) and (max-width: 490px) {
+    @content;
+}
+}
+
+@mixin min500 {
+  @media only screen and (min-width: 490px) and (max-width: 820px) {
+    @content;
+}
+}
+@mixin mix500 {
+  @media only screen and (min-width: 490px) and (max-width: 767px) {
+    @content;
+}
+}
+@mixin w490 {
+  @media screen and (max-width: 490px) {
+    @content;
+  }
+}
+@mixin w359 {
+  @media screen and (max-width: 359px) {
+    @content;
+  }
+}
+@mixin hover {
+  @media (any-hover: hover) {
+    @content;
+  }
+}
+@mixin active {
+  @media (any-pointer: coarse) {
+    @content;
+  }
+}

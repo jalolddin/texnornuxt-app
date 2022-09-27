@@ -1,0 +1,140 @@
+{
+  "GeneralBannerWithBlueBlock": {
+    "description": "Auto imported from components/sections/general/GeneralBannerWithBlueBlock.vue"
+  },
+  "GeneralBannerWithGreyGradient": {
+    "description": "Auto imported from components/sections/general/GeneralBannerWithGreyGradient.vue"
+  },
+  "GeneralBigImageWithLeftTitle": {
+    "description": "Auto imported from components/sections/general/GeneralBigImageWithLeftTitle.vue"
+  },
+  "GeneralForm": {
+    "description": "Auto imported from components/sections/general/GeneralForm.vue"
+  },
+  "GeneralSmallBlueRow": {
+    "description": "Auto imported from components/sections/general/GeneralSmallBlueRow.vue"
+  },
+  "GeneralSystemComplex": {
+    "description": "Auto imported from components/sections/general/GeneralSystemComplex.vue"
+  },
+  "IndexClients": {
+    "description": "Auto imported from components/sections/index/IndexClients.vue"
+  },
+  "IndexDirections": {
+    "description": "Auto imported from components/sections/index/IndexDirections.vue"
+  },
+  "IndexMentions": {
+    "description": "Auto imported from components/sections/index/IndexMentions.vue"
+  },
+  "IndexMore": {
+    "description": "Auto imported from components/sections/index/IndexMore.vue"
+  },
+  "IndexPartners": {
+    "description": "Auto imported from components/sections/index/IndexPartners.vue"
+  },
+  "IndexTasks": {
+    "description": "Auto imported from components/sections/index/IndexTasks.vue"
+  },
+  "IndustriesCallToAction": {
+    "description": "Auto imported from components/sections/industries/CallToAction.vue"
+  },
+  "IndustriesFAQ": {
+    "description": "Auto imported from components/sections/industries/FAQ.vue"
+  },
+  "IndustriesForWho": {
+    "description": "Auto imported from components/sections/industries/ForWho.vue"
+  },
+  "IndustriesHowItWork": {
+    "description": "Auto imported from components/sections/industries/HowItWork.vue"
+  },
+  "IndustriesLoss": {
+    "description": "Auto imported from components/sections/industries/Loss.vue"
+  },
+  "IndustriesSolutions": {
+    "description": "Auto imported from components/sections/industries/Solutions.vue"
+  },
+  "IndustriesSystemInterface": {
+    "description": "Auto imported from components/sections/industries/SystemInterface.vue"
+  },
+  "IndustriesTurnkey": {
+    "description": "Auto imported from components/sections/industries/Turnkey.vue"
+  },
+  "ProductionDocumentation": {
+    "description": "Auto imported from components/sections/production/ProductionDocumentation.vue"
+  },
+  "ProductionInfoAndSlider": {
+    "description": "Auto imported from components/sections/production/ProductionInfoAndSlider.vue"
+  },
+  "ProductionOthersLinks": {
+    "description": "Auto imported from components/sections/production/ProductionOthersLinks.vue"
+  },
+  "ProductionSliderOneItemGreyBackground": {
+    "description": "Auto imported from components/sections/production/ProductionSliderOneItemGreyBackground.vue"
+  },
+  "CalculatorCalculate": {
+    "description": "Auto imported from components/sections/calculator/CalculatorCalculate.vue"
+  },
+  "CalculatorContact": {
+    "description": "Auto imported from components/sections/calculator/CalculatorContact.vue"
+  },
+  "CalculatorIntro": {
+    "description": "Auto imported from components/sections/calculator/CalculatorIntro.vue"
+  },
+  "DemonstrationDemonstratIntro": {
+    "description": "Auto imported from components/sections/demonstration/DemonstratIntro.vue"
+  },
+  "DemonstrationDemonstratTabs": {
+    "description": "Auto imported from components/sections/demonstration/DemonstratTabs.vue"
+  },
+  "DemonstrationFourthTab": {
+    "description": "Auto imported from components/sections/demonstration/fourthTab.vue"
+  },
+  "DemonstrationInfoSlider": {
+    "description": "Auto imported from components/sections/demonstration/InfoSlider.vue"
+  },
+  "DemonstrationSecondTab": {
+    "description": "Auto imported from components/sections/demonstration/secondTab.vue"
+  },
+  "DemonstrationThirdTab": {
+    "description": "Auto imported from components/sections/demonstration/thirdTab.vue"
+  },
+  "SvgTasks": {
+    "description": "Auto imported from components/svg/SvgTasks.vue"
+  },
+  "CommonLocales": {
+    "description": "Auto imported from components/common/CommonLocales.vue"
+  },
+  "CommonLogo": {
+    "description": "Auto imported from components/common/CommonLogo.vue"
+  },
+  "CommonSocials": {
+    "description": "Auto imported from components/common/CommonSocials.vue"
+  },
+  "CommonTabsButtons": {
+    "description": "Auto imported from components/common/CommonTabsButtons.vue"
+  },
+  "HeaderBottom": {
+    "description": "Auto imported from components/header/HeaderBottom.vue"
+  },
+  "HeaderDropdown": {
+    "description": "Auto imported from components/header/HeaderDropdown.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Overlay": {
+    "description": "Auto imported from components/Overlay.vue"
+  },
+  "SectionsConsultationContent": {
+    "description": "Auto imported from components/sections/consultation/ConsultationContent.vue"
+  },
+  "SectionsConsultationIntro": {
+    "description": "Auto imported from components/sections/consultation/ConsultationIntro.vue"
+  },
+  "SectionsConsultationSlide": {
+    "description": "Auto imported from components/sections/consultation/ConsultationSlide.vue"
+  }
+}
